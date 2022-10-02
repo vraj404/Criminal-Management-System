@@ -1,0 +1,58 @@
+/*https://www.youtube.com/watch?v=aIsu9SPcGbU8*/
+body{
+    background: url('login_bg.jpg');
+    background-position: center;
+    background-color: black;
+}
+#box1{
+    border: 2px soid white;
+    border-radius: 10px;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin: auto;
+    margin-top: 290px;
+    height: 295px;
+    width: 280px;
+    padding-left: 20px;
+    padding-top: 35px;
+}
+.btn{
+    margin-top: 30px;
+    background-color: rgb(43, 43, 136);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    border: 1px solid;
+    border-radius: 5px;
+    height: 35.5px;
+    width: 100px
+}
+.btn_div{
+    margin-left: 80px;
+}
+.btn:hover{
+    color: rgb(43, 43, 136);
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    font-style: bold;
+    border: 2.3px solid rgb(43, 43, 136);
+    border-radius: 5px;
+    height: 35.5px;
+    width: 100px
+}
+.inp{
+    padding-top: 12px;
+    border: 2.5px solid;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-color: rgb(43, 43, 136);
+    width: 250px;
+    height: 18px;
+    font-size: 15px;
+}
+#sp1{
+   margin-left: 110px;
+}
