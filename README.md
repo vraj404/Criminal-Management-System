@@ -17,7 +17,8 @@ maintained through this website.</p>
 <p>5. A pie chart of crime rate it available for statistical and analytical purpose.</p>
 
 
-#Instructions
+# Instructions
+
 To get the website up and running on your machine, you will need [XAMPP](https://www.apachefriends.org/download.html). After installtion, follow the steps below.
 
 1. Clone the repository using this command.
